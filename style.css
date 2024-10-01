@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+}
+
+.senter{
+    color: white;
+    /* font-size: ; */
+    align-items: center;
+    text-align: center;
+    /* flex-direction: column; */
+    margin-top: 12%;
+}
+
+.head-sty{
+    font-size: 10rem;
+}
